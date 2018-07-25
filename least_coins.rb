@@ -2,7 +2,8 @@
 
 def least_coins(cents)
 least_coins = (35)
-
+  solution= {}
+  cents 
 
 
 
