@@ -1,9 +1,11 @@
 #write out your code here
 
 def least_coins(cents)
-least_coins = (35)
+least_coins = (50)
   solution= {}
+  num_dimes = cents/10 
   quarters = cents/ 25
+  
   solution[:quarters]= num_quarters 
   
   puts solution 
@@ -13,4 +15,4 @@ least_coins = (35)
 
 end
 
-least_coins (35)
+least_coins (50)
