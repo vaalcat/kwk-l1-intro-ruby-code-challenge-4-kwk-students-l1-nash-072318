@@ -9,6 +9,7 @@ def least_coins(cents)
  
   num_dimes = cents/10 
   solution[:dimes]=num_dimes
+  cents = cents - 10 * num_dimes
   
   puts solution 
 
