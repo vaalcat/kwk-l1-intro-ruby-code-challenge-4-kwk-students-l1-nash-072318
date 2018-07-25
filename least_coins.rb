@@ -20,4 +20,14 @@ end
 least_coins (25)
 
 
-def least_coins
+def least_coins(cents)
+  
+  solution = {} 
+  
+  
+  
+  
+  
+  
+  
+  
